@@ -1,0 +1,2 @@
+https://github.com/jcustenborder/kafka-connect-archtype
+https://mvnrepository.com/artifact/io.confluent.maven/kafka-connect-quickstart/0.10.0.0
